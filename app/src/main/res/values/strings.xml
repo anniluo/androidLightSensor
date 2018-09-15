@@ -2,8 +2,7 @@
     <string name="app_name">Got Light?</string>
     <string name="current_value">%1$s Lux</string>
     <string name="max_value">Max Light Sensor Lux: %1$s</string>
-    <string name="too_bright">You better get some sunglasses or your eyes are gonna burn!</string>
+    <string name="too_bright">You better put on sunglasses or your eyes are gonna burn!</string>
     <string name="too_dark">Quickly! Grab a lamp and give your eyes some rest from the darkness!</string>
-    <string name="good_light">Your Eyes are thanking you!</string>
-    <string name="button_text">Test Room Light</string>
+    <string name="good_light">Perfect lightning for studying! Your eyes are thanking you.</string>
 </resources>
